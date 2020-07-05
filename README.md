@@ -1,0 +1,2 @@
+# EffortList
+ Python Spotify App
